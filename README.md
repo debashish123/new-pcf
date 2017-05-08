@@ -2,10 +2,11 @@
 <<<<<<< HEAD
 =======
 hi this is debashish
-made few changes to see if irt is working '
-pelase correct the sentence in next edit]
+made few changes to see if its working '
+please correct the sentence in next edit
+
+File changed in the next edit
 
 bye
 
 
->>>>>>> 0171d34b441b2cabb4385fa4d07eba79e4e59b40
